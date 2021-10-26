@@ -1,0 +1,7 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.row{
+    --bs-gutter-x: -0.5rem;
+}
